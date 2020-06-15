@@ -1,1 +1,6 @@
-~
+groovy.util.Eval.me
+groovy.lang.GroovyShell.parse|evaluate
+groovy.lang.Script.run
+groovy.lang.GroovyClassLoader.parseClass
+org.codehaus.groovy.runtime.InvokerHelper.newScript|createScript|runScript
+org.codehaus.groovy.runtime.MethodClosure.MethodClosure
