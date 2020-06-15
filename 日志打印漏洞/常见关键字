@@ -1,0 +1,6 @@
+log.debug
+log.error
+log.info
+log.warn
+logger.severe
+logger.error
