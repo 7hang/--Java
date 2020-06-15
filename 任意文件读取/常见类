@@ -1,0 +1,9 @@
+1.JDK原始的java.io.FileInputStream类
+ 
+2.JDK原始的java.io.RandomAccessFile类
+
+3.Apache Commons IO提供的org.apache.commons.io.FileUtils类
+
+4.JDK1.7新增的基于NIO非阻塞异步读取文件的java.nio.channels.AsynchronousFileChannel类。
+
+5.JDK1.7新增的基于NIO读取文件的java.nio.file.Files类。常用方法如:Files.readAllBytes、Files.readAllLines
