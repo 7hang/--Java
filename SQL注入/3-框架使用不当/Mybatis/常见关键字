@@ -1,0 +1,8 @@
+Mysql:
+order by ${id} asc
+in (${id})
+like '%${id}%'
+
+Oracle:
+like '%$id$%'
+like '%'||'$id$'||'%'
