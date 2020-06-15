@@ -1,0 +1,4 @@
+response.sendRedirct
+request.getRequestDispatcher
+response.setHeader
+jsp:forward
