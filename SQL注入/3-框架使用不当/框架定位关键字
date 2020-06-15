@@ -1,0 +1,4 @@
+createQuery
+session.save
+session.update
+session.delete
