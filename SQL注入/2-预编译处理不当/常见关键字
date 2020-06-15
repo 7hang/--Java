@@ -1,0 +1,4 @@
+setObject()
+setInt()
+setString()
+setSQLXML()
