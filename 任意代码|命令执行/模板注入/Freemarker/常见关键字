@@ -1,0 +1,4 @@
+freemarker.template.Template.process
+freemarker.core.Environment.process
+freemarker.template.TemplateMethodModel.exec
+freemarker.template.utility.Execute.exec
