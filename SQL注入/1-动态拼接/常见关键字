@@ -1,0 +1,1 @@
+Select|insert|update|delete|java.sql.Connection|Statement|.execute|.executeQuery|jdbcTemplate|queryForInt|queryForObject|queryForMap|getConnection|PreparedStatement|Statement|execute|jdbcTemplate|queryForInt|queryForObject|queryForMap|executeQuery|getConnection
