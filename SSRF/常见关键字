@@ -1,1 +1,2 @@
 share|wap|url|link|src|source|target|u|3g|display|sourceURl|imageURL|domain
+HttpClient.execute|HttpURLConnection|URL.openStream|HttpServletRequest|getParamet|URL|HttpClient|Request|Okhttp|ImageIO.read
